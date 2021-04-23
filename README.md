@@ -17,7 +17,7 @@ Becasue the data was so heavy (more than 20M rows), and it was hard to upload it
 The Problem Statement I wanted to solve by using insights from analyzing the dataset was: 
 What opportunities exist for the eCommerce cosmetic website to increase their monthly revenue by 10% in the next year by reducing cart abandonment or by brand/product restructuring?
 
-Here is how I cleaned the data and performed an intial analysis: 
+Please see attached how I cleaned the data and performed an intial analysis in Python. 
 
 
 And here is how I performed in depth analysis and visualized it in Tableau Public: https://public.tableau.com/profile/shira.balint8379#!/vizhome/Capstone2-eCommerceCostmeticswebsite/MonthlyRevenue
